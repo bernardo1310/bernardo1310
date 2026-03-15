@@ -1,37 +1,78 @@
-<h1 align="center">👋 Olá, eu sou o Bernardo</h1>
+```markdown
+██████╗ ███████╗███╗   ███╗     ██╗   ██╗██╗███╗   ██╗██████╗  ██████╗ 
+██╔══██╗██╔════╝████╗ ████║     ██║   ██║██║████╗  ██║██╔══██╗██╔═══██╗
+██████╔╝█████╗  ██╔████╔██║     ██║   ██║██║██╔██╗ ██║██║  ██║██║   ██║
+██╔══██╗██╔══╝  ██║╚██╔╝██║     ╚██╗ ██╔╝██║██║╚██╗██║██║  ██║██║   ██║
+██████╔╝███████╗██║ ╚═╝ ██║      ╚████╔╝ ██║██║ ╚████║██████╔╝╚██████╔╝
+╚═════╝ ╚══════╝╚═╝     ╚═╝       ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝
+
+
+# 👋 Bem-vindo ao meu perfil
+
+Sou **Bernardo França Coelho**, estudante de computação e desenvolvedor em formação.  
+Aqui você pode conhecer alguns dos meus projetos acadêmicos e estudos em programação.
+
+---
+
+## 🎓 Onde estudo e trabalho
 
 <p align="center">
-Desenvolvedor | Estudante de Computação | Apaixonado por tecnologia
+
+<img src="https://descomplica-pae-backend.s3.amazonaws.com/logotipo_ifc_removebg_preview_be413df28b.png" height="70"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://www.areacentral.com.br/wp-content/uploads/2023/07/brand-symbol-area-central.svg" height="70"/>
+
 </p>
+
+🎓 **Bacharelado em Ciência da Computação**  
+Instituto Federal Catarinense (IFC)
+
+💼 **Estagiário**  
+Área Central
 
 ---
 
-### 🚀 Tecnologias que uso
+## 🧠 Tecnologias que utilizo
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,js,html,css,python,linux,git" />
+<img src="https://skillicons.dev/icons?i=php,html,css,js,python,linux,git" />
 </p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 📂 Conheça meus projetos
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+Aqui no meu GitHub você vai encontrar:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
-
----
-
-### 📌 Projetos em destaque
-
-- 🔧 Compilador em PHP
-- 🌐 Sistema Web
-- 📊 Projetos acadêmicos
+• projetos acadêmicos  
+• estudos de programação  
+• experimentos com novas tecnologias  
+• sistemas desenvolvidos durante a graduação  
 
 ---
 
-### 📫 Onde me encontrar
+## 📊 Estatísticas do GitHub
 
-LinkedIn:  
-Portfólio:  
-Email:  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardo1310&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo1310&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Conecte-se comigo
+
+💼 LinkedIn  
+https://www.linkedin.com/in/bernardo-frança-coelho-45230121b/
+
+📸 Instagram  
+https://instagram.com/coelhobe_
+
+✉️ Email  
+coelhobernardo199@gmail.com
+
+---
+
+⭐ Obrigado por visitar meu perfil!
+```
