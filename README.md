@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Bernardo</h1>
 
-<!--
-**bernardo1310/bernardo1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Desenvolvedor | Estudante de Computação | Apaixonado por tecnologia
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias que uso
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,js,html,css,python,linux,git" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+
+---
+
+### 📌 Projetos em destaque
+
+- 🔧 Compilador em PHP
+- 🌐 Sistema Web
+- 📊 Projetos acadêmicos
+
+---
+
+### 📫 Onde me encontrar
+
+LinkedIn:  
+Portfólio:  
+Email:  
