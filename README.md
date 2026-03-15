@@ -15,10 +15,6 @@ Aqui você pode conhecer alguns dos meus projetos acadêmicos e estudos em progr
 
 <p align="center">
 
-<img src="https://descomplica-pae-backend.s3.amazonaws.com/logotipo_ifc_removebg_preview_be413df28b.png" height="70"/>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 <img src="https://www.areacentral.com.br/wp-content/uploads/2023/07/brand-symbol-area-central.svg" height="70"/>
 
 </p>
