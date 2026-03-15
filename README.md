@@ -6,8 +6,6 @@
 ╚═════╝ ╚══════╝╚═╝     ╚═╝       ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝
 
 
-# 👋 Bem-vindo ao meu perfil
-
 Sou **Bernardo França Coelho**, estudante de computação e desenvolvedor em formação.  
 Aqui você pode conhecer alguns dos meus projetos acadêmicos e estudos em programação.
 
@@ -55,7 +53,6 @@ Aqui no meu GitHub você vai encontrar:
 ## 📊 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardo1310&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo1310&layout=compact&theme=tokyonight)
 
 ---
@@ -70,7 +67,3 @@ https://instagram.com/coelhobe_
 
 ✉️ Email  
 coelhobernardo199@gmail.com
-
----
-
-⭐ Obrigado por visitar meu perfil!
