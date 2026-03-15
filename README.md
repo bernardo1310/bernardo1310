@@ -11,19 +11,13 @@ Sou **Bernardo França Coelho**, estudante de computação e desenvolvedor em fo
 Aqui você pode conhecer alguns dos meus projetos acadêmicos e estudos em programação.
 
 ---
-
-<p align="center">
-
-<img src="https://www.areacentral.com.br/wp-content/uploads/2023/07/brand-symbol-area-central.svg" height="70"/>
-
-</p>
-
 🎓 **Bacharelado em Ciência da Computação**  
 Instituto Federal Catarinense (IFC)
 
 💼 **Estagiário**  
-Área Central
+Área Central <img src="https://www.areacentral.com.br/wp-content/uploads/2023/07/brand-symbol-area-central.svg" height="70"/>
 
+</p>
 ---
 
 ## 🧠 Tecnologias que utilizo
