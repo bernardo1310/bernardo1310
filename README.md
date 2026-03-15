@@ -12,8 +12,6 @@ Aqui você pode conhecer alguns dos meus projetos acadêmicos e estudos em progr
 
 ---
 
-## 🎓 Onde estudo e trabalho
-
 <p align="center">
 
 <img src="https://www.areacentral.com.br/wp-content/uploads/2023/07/brand-symbol-area-central.svg" height="70"/>
