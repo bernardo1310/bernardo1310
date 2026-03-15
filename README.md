@@ -15,7 +15,7 @@ Aqui você pode conhecer alguns dos meus projetos acadêmicos e estudos em progr
 Instituto Federal Catarinense (IFC)
 
  <img src="https://www.areacentral.com.br/wp-content/uploads/2023/07/brand-symbol-area-central.svg" height="70"/>
- 💼 **Estagiário** na Área Central
+ 💼 Estagiándo na Área Central
 
 </p>
 ---
