@@ -1,51 +1,54 @@
-```markdown
-██████╗ ███████╗███╗   ███╗     ██╗   ██╗██╗███╗   ██╗██████╗  ██████╗ 
-██╔══██╗██╔════╝████╗ ████║     ██║   ██║██║████╗  ██║██╔══██╗██╔═══██╗
-██████╔╝█████╗  ██╔████╔██║     ██║   ██║██║██╔██╗ ██║██║  ██║██║   ██║
-██╔══██╗██╔══╝  ██║╚██╔╝██║     ╚██╗ ██╔╝██║██║╚██╗██║██║  ██║██║   ██║
-██████╔╝███████╗██║ ╚═╝ ██║      ╚████╔╝ ██║██║ ╚████║██████╔╝╚██████╔╝
-╚═════╝ ╚══════╝╚═╝     ╚═╝       ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═════╝  ╚═════╝
-```
+# Bernardo França Coelho
 
-Sou **Bernardo França Coelho**, estudante de computação e desenvolvedor em formação.  
-Aqui você pode conhecer alguns dos meus projetos acadêmicos e estudos em programação.
+💻 **Computer Science Student & Software Developer in Training**
 
-🎓 **Bacharelado em Ciência da Computação**  
+Welcome to my GitHub!  
+Here you will find some of my academic projects, programming studies and experiments with different technologies.
+
+---
+
+## 🎓 Education
+
+**Bachelor's Degree in Computer Science**  
 Instituto Federal Catarinense (IFC)
 
- <img src="https://www.areacentral.com.br/wp-content/uploads/2023/07/brand-symbol-area-central.svg" height="70"/>
- 💼 Estagiándo na Área Central
-
+<p align="left">
+<img src="https://www.areacentral.com.br/wp-content/uploads/2023/07/brand-symbol-area-central.svg" height="60"/>
 </p>
 
+💼 **Intern at Área Central**
 
-## 🧠 Tecnologias que utilizo
+---
+
+## 🧠 Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=php,html,css,js,python,linux,git" />
 </p>
 
+---
 
+## 📂 Projects
 
-## 📂 Conheça meus projetos
+On this GitHub you will find:
 
-Aqui no meu GitHub você vai encontrar:
+• Academic projects  
+• Programming studies  
+• Experiments with new technologies  
+• Systems developed during my degree  
 
-• projetos acadêmicos  
-• estudos de programação  
-• experimentos com novas tecnologias  
-• sistemas desenvolvidos durante a graduação  
+---
 
+## 📊 GitHub Stats
 
+<p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=bernardo1310&show_icons=true&theme=tokyonight"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo1310&layout=compact&theme=tokyonight"/>
+</p>
 
-## 📊 Estatísticas do GitHub
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bernardo1310&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardo1310&layout=compact&theme=tokyonight)
-
-
-
-## 🌐 Conecte-se comigo
+## 🌐 Connect with me
 
 💼 LinkedIn  
 https://www.linkedin.com/in/bernardo-frança-coelho-45230121b/
