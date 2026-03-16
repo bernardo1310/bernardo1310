@@ -1,4 +1,3 @@
-# Bernardo França Coelho
 
 💻 **Computer Science Student & Software Developer in Training**
 
