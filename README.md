@@ -52,8 +52,5 @@ On this GitHub you will find:
 💼 LinkedIn  
 https://www.linkedin.com/in/bernardo-frança-coelho-45230121b/
 
-📸 Instagram  
-https://instagram.com/coelhobe_
-
 ✉️ Email  
 coelhobernardo199@gmail.com
